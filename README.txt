@@ -1,0 +1,1 @@
+Takes a file containing a string and determines how many bits are needed to encode the file using Huffman encoding
